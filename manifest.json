@@ -1,0 +1,9 @@
+"name": "monitoring of open windows",
+"version": "1.0.0",
+"description": "an extension designed to notify the user whether the windows are open for recording a person on the website of the Lithuanian Consulate in Kaliningrad https://consulate-kaliningrad.mfa.lt / расширение, предназначенное дл€ уведомлени€ пользовател€ о том, открыты ли окна дл€ записи человека на веб-сайте консульства Ћитвы в  алининграде https://consulate-kaliningrad.mfa.lt"
+"manifest_version": 1
+"author": "Stels667"
+"action": {
+    "default_popup": "
+    "default_litle": "monitoring of open windows"
+    
