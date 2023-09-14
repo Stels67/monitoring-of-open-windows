@@ -1,23 +1,23 @@
 {
   "name": "monitoring of open windows",
   "version": "1.0.0.0",
-  "description": "an extension designed to notify the user whether the windows are open for recording a person on the website of the Lithuanian Consulate in Kaliningrad https://consulate-kaliningrad.mfa.lt / расширение, предназначенное для уведомления пользователя о том, открыты ли окна для записи человека на веб-сайте консульства Литвы в Калининграде https://consulate-kaliningrad.mfa.lt",
+  "description": "an extension designed to notify the user whether the windows are open for recording a person on the website of the Lithuanian Consulate in Kaliningrad https://consulate-kaliningrad.mfa.lt",
   "manifest_version": 3,
   "author": "Stels667",
   "action": {
     "default_popup": "no name",
     "default_litle": "monitoring of open windows",
     "default_icon": {
-      "16": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo16.jpg",
-      "32": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo32.jpg",
-      "48": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo48.jpg",
-      "128": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo128.jpg"
+      "16": "/images/logo16.jpg",
+      "32": "/images/logo32.jpg",
+      "48": "/images/logo48.jpg",
+      "128": "/images/logo128.jpg"
     }
   },
   "icons": {
-    "16": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo16.jpg",
-    "32": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo32.jpg",
-    "48": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo48.jpg",
-    "128": "C:\\Users\\gjghj\\OneDrive\\Рабочий стол\\yandex sll\\ConsoleApp1\\ConsoleApp1\\logo128.jpg"
+    "16": "/images/logo16.jpg",
+    "32": "/images/logo32.jpg",
+    "48": "/images/logo48.jpg",
+    "128": "/images/logo128.jpg"
   }
 }
