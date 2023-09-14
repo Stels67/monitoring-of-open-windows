@@ -5,7 +5,7 @@
   "manifest_version": 3,
   "author": "Stels667",
   "action": {
-    "default_popup": "no name",
+    "default_popup": "HTMLPage1.html",
     "default_litle": "monitoring of open windows",
     "default_icon": {
       "16": "/images/logo16.jpg",
